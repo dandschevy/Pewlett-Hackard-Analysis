@@ -10,7 +10,8 @@ Below is the print screen of the employees by title who are retiring.  As indica
 
 Below is the link to the actual csv file:
 
-
+https://github.com/dandschevy/Pewlett-Hackard-Analysis/blob/main/Data/retirement2_titles.csv
 
 
 ## Summary
+Based on the data, a large number highly skilled engineers and senior staff are retiring. A sucession plan should be implemented immediately with training programs and talent acquisition a high priority.  
